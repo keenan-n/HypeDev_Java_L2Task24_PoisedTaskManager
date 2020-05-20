@@ -67,12 +67,21 @@ Users can view a chosen project that has not yet been finalized.
 
 ### Screenshots:
 ---
-*
-*
-*
-*
-*
-*
+* Main Menu:  
+![Main Menu](https://github.com/keenan-n/HypeDev_Java_L2Task24_PoisedTaskManager/blob/master/mainMenu.png)
+ 
+* Complete Project:  
+![Complete Project](https://github.com/keenan-n/HypeDev_Java_L2Task24_PoisedTaskManager/blob/master/completeProjects.png)  
+
+* Project Invoice:  
+![Project Invoice](https://github.com/keenan-n/HypeDev_Java_L2Task24_PoisedTaskManager/blob/master/textInvoice.png)  
+
+* Incomplete Project:  
+![Incomplete Project](https://github.com/keenan-n/HypeDev_Java_L2Task24_PoisedTaskManager/blob/master/incompleteProjects.png)  
+
+* Overdue Projects:  
+![Overdue Projects](https://github.com/keenan-n/HypeDev_Java_L2Task24_PoisedTaskManager/blob/master/OverdueProjects.png)  
+
 ### Future Updates:
 ---
 The next update will have more functions.
