@@ -1,0 +1,16 @@
+Customer Details, Keenan, 123456789, abc, 123 abc
+Project Details, 2, Residential Building Keenan, Residential Building, 123 abc, 123, 10000.0, 10000.0, 12-12-2020
+Architect Details, abc, 0115984456, keenan2@gmail.com, abc
+Builder Details, abc, 11111111111111111, 11111111111111111, abc
+Customer Details, Keenan, 123456789, abc, 123 abc
+Project Details, 3, Residential Building Keenan, Residential Building, 123 abc, 123, 10000.0, 1000.0, 03-04-2019
+Architect Details, abc, 0115984456, keenan3@gmail.com, abc
+Builder Details, abc, 11111111111111111, 11111111111111111, abc
+Customer Details, Keenan, 123456789, abc, 123 abc
+Project Details, 4, Residential Building Keenan, Residential Building, 123 abc, 123, 10000.0, 6000.0, 17-05-2020
+Architect Details, abc, 0115984456, keenan3@gmail.com, abc
+Builder Details, abc, 11111111111111111, 11111111111111111, abc
+Customer Details, Keenan, 123456789, abc, 123 abc
+Project Details, 5, Residential Building Keenan, Residential Building, 123 abc, 123, 10000.0, 0.0, 03-04-2012
+Architect Details, abc, 0115984456, keenan3@gmail.com, abc
+Builder Details, abc, 11111111111111111, 11111111111111111, abc

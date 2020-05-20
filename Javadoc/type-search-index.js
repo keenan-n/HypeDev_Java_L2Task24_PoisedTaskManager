@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"CreateNewProject"},{"p":"<Unnamed>","l":"ProjectPersonal.NewArchitect"},{"p":"<Unnamed>","l":"ProjectPersonal.NewBuildContractor"},{"p":"<Unnamed>","l":"ProjectPersonal.NewCustomer"},{"p":"<Unnamed>","l":"PoisedTaskManager"},{"p":"<Unnamed>","l":"ProjectPersonal"}]
